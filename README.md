@@ -12,8 +12,7 @@ ___
 # Installation
 - Install [Nerd Font](https://www.nerdfonts.com/font-downloads)
 - Install [Oh My Posh](https://ohmyposh.dev/)
-- Install Nerd Font via: `oh-my-posh font install`
-- [Dracula theme](https://draculatheme.com/windows-terminal)
+- Install [Dracula theme](https://draculatheme.com/windows-terminal). Configuration is inside the `settings.json`.
 
 ```
 "schemes": [

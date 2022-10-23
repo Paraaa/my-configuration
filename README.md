@@ -3,7 +3,7 @@ This is my configuration for my windows terminal. The
 configuration is based on [SavvyNik](https://www.youtube.com/watch?v=IdKEA_N_awM) video on the windows 
 terminal. Also I use [Oh My Posh](https://ohmyposh.dev/).
 
-![Terminal Image](Terminal.png "Terminal")
+![Terminal Image](Terminal.png)
 
 ___
 

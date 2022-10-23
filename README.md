@@ -1,15 +1,19 @@
 # my-configuration
-
 This is my configuration for my windows terminal. The 
 configuration is based on [SavvyNik](https://www.youtube.com/watch?v=IdKEA_N_awM) video on the windows 
 terminal. Also I use [Oh My Posh](https://ohmyposh.dev/).
 
-Installation:
-- Install Oh My Posh 
+![Terminal Image](Terminal.png "Terminal")
+
+___
+
+
+
+# Installation
+- Install [Nerd Font](https://www.nerdfonts.com/font-downloads)
+- Install [Oh My Posh](https://ohmyposh.dev/)
 - Install Nerd Font via: `oh-my-posh font install`
-
-
-- Dracula theme: https://draculatheme.com/windows-terminal
+- [Dracula theme](https://draculatheme.com/windows-terminal)
 
 ```
 "schemes": [
